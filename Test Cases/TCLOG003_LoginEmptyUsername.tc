@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCLOG003_LoginEmptyUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1eae0bc6-c483-409d-b2b5-8ee03d8ddad9</testCaseGuid>
+</TestCaseEntity>
